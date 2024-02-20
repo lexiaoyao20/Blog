@@ -57,7 +57,7 @@
 @end
 ```
 
-完整Demo请参考：[DynamicFont](../../Demo/02402/DynamicFont)
+完整Demo请参考：[DynamicFont](../../Demo/202402/DynamicFont)
 
 ## 参考链接
 
